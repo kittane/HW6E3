@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.frey.msu.criminalintent.app-mergeDebugResources-35:/layout/fragment_crime_list.xml",
+        "source": "com.frey.msu.criminalintent.app-main-38:/layout/fragment_crime_list.xml"
+    },
+    {
+        "merged": "com.frey.msu.criminalintent.app-mergeDebugResources-35:/layout/fragment_crime_detail.xml",
+        "source": "com.frey.msu.criminalintent.app-main-38:/layout/fragment_crime_detail.xml"
+    },
+    {
+        "merged": "com.frey.msu.criminalintent.app-mergeDebugResources-35:/layout/list_item_crime.xml",
+        "source": "com.frey.msu.criminalintent.app-main-38:/layout/list_item_crime.xml"
+    },
+    {
+        "merged": "com.frey.msu.criminalintent.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.frey.msu.criminalintent.app-main-38:/layout/activity_main.xml"
+    }
+]

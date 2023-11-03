@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.frey.msu.criminalintent.app-mergeDebugResources-34:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\capta\\.gradle\\caches\\transforms-3\\0bdeed188a1a1c2ba810315ca0fab0f3\\transformed\\appcompat-1.5.1\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
