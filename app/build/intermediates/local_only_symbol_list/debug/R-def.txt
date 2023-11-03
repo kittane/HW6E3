@@ -9,9 +9,12 @@ color teal_700
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_solved
+id constraintlayout
 id crime_date
 id crime_recycler_view
 id crime_solved
+id crime_solved_img
 id crime_title
 id fragment_container
 layout activity_main

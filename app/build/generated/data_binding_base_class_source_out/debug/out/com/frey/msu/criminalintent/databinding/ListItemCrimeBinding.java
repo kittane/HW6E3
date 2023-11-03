@@ -4,10 +4,11 @@ package com.frey.msu.criminalintent.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.LinearLayout;
+import android.widget.ImageView;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.frey.msu.criminalintent.R;
@@ -17,24 +18,33 @@ import java.lang.String;
 
 public final class ListItemCrimeBinding implements ViewBinding {
   @NonNull
-  private final LinearLayout rootView;
+  private final ConstraintLayout rootView;
+
+  @NonNull
+  public final ConstraintLayout constraintlayout;
 
   @NonNull
   public final TextView crimeDate;
 
   @NonNull
+  public final ImageView crimeSolvedImg;
+
+  @NonNull
   public final TextView crimeTitle;
 
-  private ListItemCrimeBinding(@NonNull LinearLayout rootView, @NonNull TextView crimeDate,
-      @NonNull TextView crimeTitle) {
+  private ListItemCrimeBinding(@NonNull ConstraintLayout rootView,
+      @NonNull ConstraintLayout constraintlayout, @NonNull TextView crimeDate,
+      @NonNull ImageView crimeSolvedImg, @NonNull TextView crimeTitle) {
     this.rootView = rootView;
+    this.constraintlayout = constraintlayout;
     this.crimeDate = crimeDate;
+    this.crimeSolvedImg = crimeSolvedImg;
     this.crimeTitle = crimeTitle;
   }
 
   @Override
   @NonNull
-  public LinearLayout getRoot() {
+  public ConstraintLayout getRoot() {
     return rootView;
   }
 
@@ -59,9 +69,17 @@ public final class ListItemCrimeBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      ConstraintLayout constraintlayout = (ConstraintLayout) rootView;
+
       id = R.id.crime_date;
       TextView crimeDate = ViewBindings.findChildViewById(rootView, id);
       if (crimeDate == null) {
+        break missingId;
+      }
+
+      id = R.id.crime_solved_img;
+      ImageView crimeSolvedImg = ViewBindings.findChildViewById(rootView, id);
+      if (crimeSolvedImg == null) {
         break missingId;
       }
 
@@ -71,7 +89,8 @@ public final class ListItemCrimeBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ListItemCrimeBinding((LinearLayout) rootView, crimeDate, crimeTitle);
+      return new ListItemCrimeBinding((ConstraintLayout) rootView, constraintlayout, crimeDate,
+          crimeSolvedImg, crimeTitle);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

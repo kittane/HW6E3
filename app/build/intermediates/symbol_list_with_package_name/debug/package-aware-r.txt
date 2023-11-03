@@ -2568,6 +2568,7 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_solved
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay
 drawable m3_radiobutton_ripple
@@ -2763,6 +2764,7 @@ id collapseActionView
 id compress
 id confirm_button
 id constraint
+id constraintlayout
 id container
 id content
 id contentPanel
@@ -2775,6 +2777,7 @@ id cradle
 id crime_date
 id crime_recycler_view
 id crime_solved
+id crime_solved_img
 id crime_title
 id currentState
 id custom

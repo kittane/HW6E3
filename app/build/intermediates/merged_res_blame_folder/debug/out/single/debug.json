@@ -1,82 +1,90 @@
 [
     {
-        "merged": "com.frey.msu.criminalintent.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.frey.msu.criminalintent.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-main-38:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.frey.msu.criminalintent.app-merged_res-36:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.frey.msu.criminalintent.app-main-38:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-merged_res-36:\\layout_list_item_crime.xml.flat",
+        "source": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-main-38:\\layout\\list_item_crime.xml"
     },
     {
-        "merged": "com.frey.msu.criminalintent.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.frey.msu.criminalintent.app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.frey.msu.criminalintent.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.frey.msu.criminalintent.app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-merged_res-36:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-main-38:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.frey.msu.criminalintent.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.frey.msu.criminalintent.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-merged_res-36:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-main-38:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.frey.msu.criminalintent.app-merged_res-36:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.frey.msu.criminalintent.app-main-38:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-merged_res-36:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-main-38:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.frey.msu.criminalintent.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.frey.msu.criminalintent.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-merged_res-36:\\layout_fragment_crime_list.xml.flat",
+        "source": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-main-38:\\layout\\fragment_crime_list.xml"
     },
     {
-        "merged": "com.frey.msu.criminalintent.app-merged_res-36:/xml_backup_rules.xml.flat",
-        "source": "com.frey.msu.criminalintent.app-main-38:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-main-38:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.frey.msu.criminalintent.app-merged_res-36:/xml_data_extraction_rules.xml.flat",
-        "source": "com.frey.msu.criminalintent.app-main-38:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.frey.msu.criminalintent.app-merged_res-36:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.frey.msu.criminalintent.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-merged_res-36:\\layout_fragment_crime_detail.xml.flat",
+        "source": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-main-38:\\layout\\fragment_crime_detail.xml"
     },
     {
-        "merged": "com.frey.msu.criminalintent.app-merged_res-36:/layout_fragment_crime_list.xml.flat",
-        "source": "com.frey.msu.criminalintent.app-main-38:/layout/fragment_crime_list.xml"
+        "merged": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-main-38:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.frey.msu.criminalintent.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.frey.msu.criminalintent.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-merged_res-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-main-38:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.frey.msu.criminalintent.app-merged_res-36:/layout_activity_main.xml.flat",
-        "source": "com.frey.msu.criminalintent.app-main-38:/layout/activity_main.xml"
+        "merged": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-merged_res-36:\\drawable_ic_solved.xml.flat",
+        "source": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-main-38:\\drawable\\ic_solved.xml"
+    },
+    {
+        "merged": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-merged_res-36:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-main-38:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-merged_res-36:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-main-38:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
         "merged": "com.frey.msu.criminalintent.app-merged_res-36:/layout_list_item_crime.xml.flat",
         "source": "com.frey.msu.criminalintent.app-main-38:/layout/list_item_crime.xml"
     },
     {
-        "merged": "com.frey.msu.criminalintent.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.frey.msu.criminalintent.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-merged_res-36:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-main-38:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.frey.msu.criminalintent.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.frey.msu.criminalintent.app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-merged_res-36:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-main-38:\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.frey.msu.criminalintent.app-merged_res-36:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.frey.msu.criminalintent.app-main-38:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-merged_res-36:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-main-38:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.frey.msu.criminalintent.app-merged_res-36:/layout_fragment_crime_detail.xml.flat",
-        "source": "com.frey.msu.criminalintent.app-main-38:/layout/fragment_crime_detail.xml"
+        "merged": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-merged_res-36:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-main-38:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.frey.msu.criminalintent.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.frey.msu.criminalintent.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.frey.msu.criminalintent.app-merged_res-36:/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.frey.msu.criminalintent.app-main-38:/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-merged_res-36:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\capta\\.gradle\\daemon\\7.4\\com.frey.msu.criminalintent.app-main-38:\\mipmap-hdpi\\ic_launcher.webp"
     }
 ]

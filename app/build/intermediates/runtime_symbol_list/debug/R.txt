@@ -2567,6 +2567,7 @@ int drawable ic_mtrl_checked_circle 0x7f070088
 int drawable ic_mtrl_chip_checked_black 0x7f070089
 int drawable ic_mtrl_chip_checked_circle 0x7f07008a
 int drawable ic_mtrl_chip_close_circle 0x7f07008b
+int drawable ic_solved 0x7f0700d3
 int drawable m3_appbar_background 0x7f07008c
 int drawable m3_popupmenu_background_overlay 0x7f07008d
 int drawable m3_radiobutton_ripple 0x7f07008e
@@ -2762,6 +2763,7 @@ int id collapseActionView 0x7f080078
 int id compress 0x7f080079
 int id confirm_button 0x7f08007a
 int id constraint 0x7f08007b
+int id constraintlayout 0x7f0801e3
 int id container 0x7f08007c
 int id content 0x7f08007d
 int id contentPanel 0x7f08007e
@@ -2774,6 +2776,7 @@ int id cradle 0x7f080084
 int id crime_date 0x7f080085
 int id crime_recycler_view 0x7f080086
 int id crime_solved 0x7f080087
+int id crime_solved_img 0x7f0801e4
 int id crime_title 0x7f080088
 int id currentState 0x7f080089
 int id custom 0x7f08008a
